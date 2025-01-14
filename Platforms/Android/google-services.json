@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77223569957",
+    "project_id": "samplesolution-53cc4",
+    "storage_bucket": "samplesolution-53cc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77223569957:android:3f48e01d245fc4b2c7edcc",
+        "android_client_info": {
+          "package_name": "com.bitcure.devquestionaire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfenr5X6DFXXo9v_Os_iAE3N67-GDUt28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
