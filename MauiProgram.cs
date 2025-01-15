@@ -35,6 +35,7 @@ namespace devquestionaire
 #endif
                 });
             builder.Services.AddSingleton<IAnalyticsService, AnalyticsService>();
+            builder.Services.AddSingleton<ICrashlyticsService, CrashlyticsService>();
 
 #if DEBUG
             builder.Logging.AddDebug();
